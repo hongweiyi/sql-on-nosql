@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/net/moraleboost/flux/eval/expr/func
+END
+DoubleFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/DoubleFunction.java
+END
+BaseFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/BaseFunction.java
+END
+DateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/DateFunction.java
+END
+IntegerFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/IntegerFunction.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/Function.java
+END
+BigIntegerFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/BigIntegerFunction.java
+END
+LongFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/LongFunction.java
+END
+BigDecimalFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/BigDecimalFunction.java
+END
+SubstringFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/SubstringFunction.java
+END
+LengthFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/src/net/moraleboost/flux/eval/expr/func/LengthFunction.java
+END
+FloatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/FloatFunction.java
+END
+StringFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/src/net/moraleboost/flux/eval/expr/func/StringFunction.java
+END
