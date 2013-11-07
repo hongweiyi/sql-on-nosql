@@ -38,7 +38,8 @@ public class CqlParserDriver {
         } catch (MismatchedTokenException e) {
             if (e.getUnexpectedType() == CqlParser.EOF) {
                 // immature input. continue.
-                return null;
+                ErrorMsg error = ErrorMsg.INVALID_END;
+                throw new SyntaxException(error.getErrorCodedMsg(), e);
             } else {
                 String exStr = ErrorMsg.SYNTAXERROR + getSyntaxExceptionStr(command, e.charPositionInLine);
                 ErrorMsg error = ErrorMsg.getInstance(exStr);

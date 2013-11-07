@@ -9,6 +9,7 @@ public enum ErrorMsg {
     GENERIC_ERROR(42000, "Exception while processing"),
     INVALID_TABLE(10001, "Table '%s' doesn't exist"),
     INVALID_COLUMN(10002, "Invalid column '%s'"),
+    INVALID_END(10003, "SQL must end with ';'"),
     SYNTAX_ERROR(20000, "You have an error in your SQL syntax; check the manual for the right syntax to use near '%s'");
 
     private String msg;
